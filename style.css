@@ -1,0 +1,13 @@
+.btn-outline-success{
+    margin: 30px;
+}
+.hidden{
+    display: none;
+}
+#contenedor{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 5px;
+}
